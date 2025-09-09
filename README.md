@@ -14,6 +14,8 @@
  Before joining, turn off the **microphone** and **camera**.
  
  The **"Join now"** button is automatically clicked.
+
+ Ends the meeting after the desired duration.
  
  Runs continuously in the background.
 
